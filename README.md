@@ -10,8 +10,8 @@
 * **Название команды:** CoffeeTech Innovators
 * **Состав команды:**
   * **[Наталия Коледа]** | Telegram: @natali_1ph | Роль: Product Manager /Контент-мейкер
-  * **[Евгений Братковский]** | Telegram: @Evg3ny_Viktoroviср | Роль: Automation Engineer (сборка пайплайнов в n8n, интеграция API)
-* **Ссылка на репозиторий/артефакты проекта:**ссылку на проект добавь!!!!!!!!!!!!!!!!!!!!!!!!
+  * **[Евгений Братковский]** | Telegram: @Evg3ny_Viktoroviсh | Роль: Automation Engineer (сборка пайплайнов в n8n, интеграция API)
+* **Ссылка на репозиторий/артефакты проекта:(https://github.com/nata-natalka/PersonalBarista-AI/blob/main/README.md)
 
 ## 3. Проблема
 * **Какую проблему решаете?** 
